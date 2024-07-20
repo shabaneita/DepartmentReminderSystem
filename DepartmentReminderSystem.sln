@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentReminderSystem.Api", "DepartmentReminderSystem.Api\DepartmentReminderSystem.Api.csproj", "{3B76DDDB-2ECE-473F-A6AD-FE1485D166D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentReminderSystem.Application", "DepartmentReminderSystem.Application\DepartmentReminderSystem.Application.csproj", "{CCE22043-9C33-4082-9C09-5B262D9D213D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentReminderSystem.Domain", "DepartmentReminderSystem.Domain\DepartmentReminderSystem.Domain.csproj", "{A9CFD818-FE07-4DF4-9323-E2FF2B5B2C0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentReminderSystem.Infrastructure", "DepartmentReminderSystem.Infrastructure\DepartmentReminderSystem.Infrastructure.csproj", "{A3CEA179-374D-4BB2-A9D2-549827E46022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentReminderSystem.Tests", "DepartmentReminderSystem.Tests\DepartmentReminderSystem.Tests.csproj", "{35567C79-8696-4507-9A91-96F6501D7535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B76DDDB-2ECE-473F-A6AD-FE1485D166D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B76DDDB-2ECE-473F-A6AD-FE1485D166D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B76DDDB-2ECE-473F-A6AD-FE1485D166D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B76DDDB-2ECE-473F-A6AD-FE1485D166D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE22043-9C33-4082-9C09-5B262D9D213D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE22043-9C33-4082-9C09-5B262D9D213D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE22043-9C33-4082-9C09-5B262D9D213D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE22043-9C33-4082-9C09-5B262D9D213D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9CFD818-FE07-4DF4-9323-E2FF2B5B2C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CFD818-FE07-4DF4-9323-E2FF2B5B2C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CFD818-FE07-4DF4-9323-E2FF2B5B2C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CFD818-FE07-4DF4-9323-E2FF2B5B2C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CEA179-374D-4BB2-A9D2-549827E46022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CEA179-374D-4BB2-A9D2-549827E46022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CEA179-374D-4BB2-A9D2-549827E46022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CEA179-374D-4BB2-A9D2-549827E46022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35567C79-8696-4507-9A91-96F6501D7535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35567C79-8696-4507-9A91-96F6501D7535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35567C79-8696-4507-9A91-96F6501D7535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35567C79-8696-4507-9A91-96F6501D7535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
